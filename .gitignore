@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Cache
+*.tsbuildinfo
+.vercel
